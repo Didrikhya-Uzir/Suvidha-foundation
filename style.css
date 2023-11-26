@@ -207,7 +207,7 @@ figure.photo.hover:before {
 .about {
   font-family: helvetica;
   background-color: #fbceb1;
-  padding: 2rem;
+  padding: 3.5rem;
   text-align: justify;
   color: black;
 }
@@ -219,9 +219,9 @@ figure.photo.hover:before {
   font-size: 20px;
 }
 
-.about p{
+/* .about p{
     word-spacing: 1px;
-}
+} */
 
 
 /* top universities CSS */
