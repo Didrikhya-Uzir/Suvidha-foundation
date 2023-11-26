@@ -219,7 +219,9 @@ figure.photo.hover:before {
   font-size: 20px;
 }
 
-
+.about p{
+    word-spacing: 1em;
+}
 
 
 /* top universities CSS */
